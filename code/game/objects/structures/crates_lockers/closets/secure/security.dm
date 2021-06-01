@@ -82,7 +82,8 @@
 		/obj/item/gun/energy/gun,
 		/obj/item/clothing/accessory/storage/holster/waist,
 		/obj/item/telebaton,
-		/obj/item/holowarrant
+		/obj/item/holowarrant,
+		/obj/item/flashlight/maglight 
 	)
 
 /obj/structure/closet/secure_closet/warden
@@ -182,7 +183,8 @@
 		/obj/item/clothing/accessory/storage/holster/armpit,
 		/obj/item/chems/food/drinks/flask/detflask,
 		/obj/item/storage/briefcase/crimekit,
-		/obj/item/holowarrant
+		/obj/item/holowarrant,
+		/obj/item/ammo_magazine/pistol
 	)
 
 /obj/structure/closet/secure_closet/injection
